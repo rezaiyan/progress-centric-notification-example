@@ -34,7 +34,19 @@ Customizes the notification using the new `ProgressStyle`:
 |----------------------------|
 | ![Live Notification Example](https://github.com/user-attachments/assets/4092c88c-9b9a-4796-bf03-386a31287511)|
 
-## How to Use
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/rezaiyan/progress-centric-notification-example.git
+## Contribute
+Contributions are welcome! If you'd like to enhance the app, fix the voting issue, or add new features:
+1. Fork the repository.
+2. Make your changes.
+3. Submit a pull request.
+
+Check out the project walkthrough on YouTube:  
+[👉 Watch the video here!](https://youtu.be/EWyl8HjpB_c)
+
+---
+
+Feel free to leave your thoughts or suggestions in the comments section of the video or contribute directly to the codebase. Let's build great things together!
+
+Happy coding!  
+**Ali Rezaiyan**  
+[Otago Channel](https://www.youtube.com/@OtagoTech?sub_confirmation=1)
